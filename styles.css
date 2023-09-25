@@ -9,5 +9,7 @@ body{
 	color: #777777;
 }
 .price{
+	border-radius: 5px;
+	color: rgb(255, 255, 255);
 	background-color: #2ecc71;
 }
