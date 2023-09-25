@@ -43,11 +43,11 @@ body{
 	margin-left : 30px;
 }
 .Autor{
-	color : #777777 ;
+	color : rgb(119, 119, 119) ;
 	margin : 1px ;
 	padding : 1px;
 }
-.Price{
+.price{
     background-color : rgb(46, 204, 113);
 	width : 97%;
 	height : 30px;
@@ -58,4 +58,9 @@ body{
 	font-size : 20px;
 	margin-bottom : 20px;
 	border-radius : 10px;
+}
+.color_white{
+	height:10px;
+	width:100%;
+	background-color:rgb(255, 255, 255);
 }
