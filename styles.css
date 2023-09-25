@@ -19,7 +19,7 @@ body{
 	text-align : center;
 }
 .book{
-/* 	background-color : #f8f8f8; */
+/* 	background-color : rgb(46, 204, 113); */
 	width : 100%;
 	margin-top : 20px;
 	display : flex;
@@ -48,7 +48,7 @@ body{
 	padding : 1px;
 }
 .Price{
-    background-color : green;
+    background-color : rgb(46, 204, 113);
 	width : 97%;
 	height : 30px;
 	display : flex ;
